@@ -1,0 +1,6 @@
+body {
+  background-image: url("/static/images/fondo products.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
